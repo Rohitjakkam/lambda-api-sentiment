@@ -1,4 +1,19 @@
-# Serverless ML Model on AWS Lambda 🚀
+# Let’s Deploy a Serverless Sentiment Analysis API using AWS Lambda & API Gateway 🚀
+
+Step by step ↓
+
+AWS Lambda + API Gateway is one of the easiest ways to deploy an ML-powered REST API without managing servers.
+Yet, many ML engineers hesitate to use it due to deployment complexity.
+
+Let me help you deploy your first Serverless AI API using AWS Comprehend for sentiment analysis!
+
+👉 Why AWS Lambda + API Gateway?
+✅ Fully managed (no servers to maintain)
+✅ Cost-efficient (pay only for what you use)
+✅ Auto-scalable (handles thousands of requests)
+
+
+
 ![Sentiment Analysis](media/flowchart.jpeg)
 ## Overview
 `lambda-api-sentiment` is a serverless application built using AWS Lambda and Amazon Comprehend to analyze the sentiment of text inputs. The application exposes an API endpoint that accepts text data and returns the sentiment analysis result.
