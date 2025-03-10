@@ -27,6 +27,7 @@ Let me help you deploy your first Serverless AI API using AWS Comprehend for sen
 - AWS Account
 - AWS CLI configured with appropriate permissions
 - Python 3.10 or higher
+- Install uv
 - `boto3` and `requests` Python packages
 
 ## Installation
@@ -35,10 +36,13 @@ Let me help you deploy your first Serverless AI API using AWS Comprehend for sen
     git clone https://github.com/Rohitjakkam/lambda-api-sentiment.git
     cd lambda-api-sentiment
     ```
-
+2. Initialize uv
+   ``` sh
+   uv init
+   ```
 2. Install the required dependencies:
     ```sh
-    pip install -r requirements.txt
+    uv sync
     ```
 
 ## Configuration
