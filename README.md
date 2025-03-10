@@ -1,4 +1,4 @@
-# lambda-api-sentiment
+# Serverless ML Model on AWS Lambda 🚀
 ![Sentiment Analysis](media/flowchart.jpeg)
 ## Overview
 `lambda-api-sentiment` is a serverless application built using AWS Lambda and Amazon Comprehend to analyze the sentiment of text inputs. The application exposes an API endpoint that accepts text data and returns the sentiment analysis result.
