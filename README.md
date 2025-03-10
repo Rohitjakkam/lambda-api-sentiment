@@ -2,12 +2,12 @@
 
 ![Sentiment Analysis](media/thumbnail.png)
 
-Step by step ↓
+### Step by step ↓
 
 AWS Lambda + API Gateway is one of the easiest ways to deploy an ML-powered REST API without managing servers.
 Yet, many ML engineers hesitate to use it due to deployment complexity.
 
-Let me help you deploy your first Serverless AI API using AWS Comprehend for sentiment analysis!
+### Let me help you deploy your first Serverless AI API using AWS Comprehend for sentiment analysis!
 
 👉 Why AWS Lambda + API Gateway?
 - ✅ Fully managed (no servers to maintain)
