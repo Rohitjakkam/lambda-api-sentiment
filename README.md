@@ -8,9 +8,9 @@ Yet, many ML engineers hesitate to use it due to deployment complexity.
 Let me help you deploy your first Serverless AI API using AWS Comprehend for sentiment analysis!
 
 👉 Why AWS Lambda + API Gateway?
-✅ Fully managed (no servers to maintain)
-✅ Cost-efficient (pay only for what you use)
-✅ Auto-scalable (handles thousands of requests)
+- ✅ Fully managed (no servers to maintain)
+- ✅ Cost-efficient (pay only for what you use)
+- ✅ Auto-scalable (handles thousands of requests)
 
 
 
